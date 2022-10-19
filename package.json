@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "primeflex": "^3.2.1",
+    "primeicons": "^6.0.1",
+    "primereact": "^8.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-transition-group": "^4.4.5"
+  },
+  "main": "src/demo/DataTableGridLinesDemo.js"
+}
